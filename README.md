@@ -1,6 +1,6 @@
 ```bash
 $ RUST_LOG=info cargo run
-   Compiling slog-nested-values-example v0.1.0 (/Users/matsumototakahiro/rust-projects/slog-nested-values-example)
+   Compiling slog-nested-values-example v0.1.0
     Finished dev [unoptimized + debuginfo] target(s) in 1.84s
      Running `target/debug/slog-nested-values-example`
 {"msg":"JSON list","level":"INFO","ts":"2020-12-05T23:52:25.731280+09:00","version":"0.1.0","list":[123,456]}
